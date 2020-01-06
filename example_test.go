@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/bitcoinsv/bsvutil"
+	"github.com/whatsonchain/bsvutil"
 )
 
 func ExampleAmount() {

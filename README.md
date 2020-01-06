@@ -3,7 +3,7 @@ bsvutil
 
 [![Build Status](https://travis-ci.org/bitcoinsv/bsvutil.svg?branch=master)](https://travis-ci.org/bitcoinsv/bsvutil)
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/bitcoinsv/bsvutil)
+[![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/whatsonchain/bsvutil)
 
 Package bsvutil provides Bitcoin (BSV) specific convenience functions and types.
 A comprehensive suite of tests is provided to ensure proper functionality.  See
@@ -19,7 +19,7 @@ provided.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/bitcoinsv/bsvutil
+$ go get -u github.com/whatsonchain/bsvutil
 ```
 
 ## License

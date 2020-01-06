@@ -3,7 +3,7 @@ coinset
 
 [![Build Status](https://travis-ci.org/bitcoinsv/bsvutil.svg?branch=master)](https://travis-ci.org/bitcoinsv/bsvutil)
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/bitcoinsv/bsvutil/coinset)
+[![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/whatsonchain/bsvutil/coinset)
 
 Package coinset provides bitcoin-specific convenience functions for selecting
 from and managing sets of unspent transaction outpoints (UTXOs).
@@ -16,7 +16,7 @@ report.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/bitcoinsv/bsvutil/coinset
+$ go get -u github.com/whatsonchain/bsvutil/coinset
 ```
 
 ## Usage

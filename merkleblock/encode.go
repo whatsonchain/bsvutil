@@ -6,11 +6,11 @@
 package merkleblock
 
 import (
-	"github.com/bitcoinsv/bsvd/blockchain"
-	"github.com/bitcoinsv/bsvd/chaincfg/chainhash"
-	"github.com/bitcoinsv/bsvd/wire"
-	"github.com/bitcoinsv/bsvutil"
-	"github.com/bitcoinsv/bsvutil/bloom"
+	"github.com/whatsonchain/bsvd/blockchain"
+	"github.com/whatsonchain/bsvd/chaincfg/chainhash"
+	"github.com/whatsonchain/bsvd/wire"
+	"github.com/whatsonchain/bsvutil"
+	"github.com/whatsonchain/bsvutil/bloom"
 )
 
 // MerkleBlock is used to house intermediate information needed to generate a

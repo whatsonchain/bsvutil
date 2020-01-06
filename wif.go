@@ -8,10 +8,10 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/bitcoinsv/bsvd/bsvec"
-	"github.com/bitcoinsv/bsvd/chaincfg"
-	"github.com/bitcoinsv/bsvd/chaincfg/chainhash"
-	"github.com/bitcoinsv/bsvutil/base58"
+	"github.com/whatsonchain/bsvd/bsvec"
+	"github.com/whatsonchain/bsvd/chaincfg"
+	"github.com/whatsonchain/bsvd/chaincfg/chainhash"
+	"github.com/whatsonchain/bsvutil/base58"
 )
 
 // ErrMalformedPrivateKey describes an error where a WIF-encoded private

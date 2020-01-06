@@ -7,9 +7,9 @@ package bsvutil_test
 import (
 	"testing"
 
-	"github.com/bitcoinsv/bsvd/bsvec"
-	"github.com/bitcoinsv/bsvd/chaincfg"
-	. "github.com/bitcoinsv/bsvutil"
+	"github.com/whatsonchain/bsvd/bsvec"
+	"github.com/whatsonchain/bsvd/chaincfg"
+	. "github.com/whatsonchain/bsvutil"
 )
 
 func TestEncodeDecodeWIF(t *testing.T) {

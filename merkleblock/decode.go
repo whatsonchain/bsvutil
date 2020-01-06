@@ -6,9 +6,9 @@
 package merkleblock
 
 import (
-	"github.com/bitcoinsv/bsvd/blockchain"
-	"github.com/bitcoinsv/bsvd/chaincfg/chainhash"
-	"github.com/bitcoinsv/bsvd/wire"
+	"github.com/whatsonchain/bsvd/blockchain"
+	"github.com/whatsonchain/bsvd/chaincfg/chainhash"
+	"github.com/whatsonchain/bsvd/wire"
 )
 
 // MaxTxnCount defines the maximum number of transactions we will process before

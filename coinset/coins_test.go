@@ -11,10 +11,10 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/bitcoinsv/bsvd/chaincfg/chainhash"
-	"github.com/bitcoinsv/bsvd/wire"
-	"github.com/bitcoinsv/bsvutil"
-	"github.com/bitcoinsv/bsvutil/coinset"
+	"github.com/whatsonchain/bsvd/chaincfg/chainhash"
+	"github.com/whatsonchain/bsvd/wire"
+	"github.com/whatsonchain/bsvutil"
+	"github.com/whatsonchain/bsvutil/coinset"
 )
 
 type TestCoin struct {

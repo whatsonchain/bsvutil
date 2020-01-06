@@ -11,8 +11,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/bitcoinsv/bsvd/chaincfg"
-	"github.com/bitcoinsv/bsvutil"
+	"github.com/whatsonchain/bsvd/chaincfg"
+	"github.com/whatsonchain/bsvutil"
 	"golang.org/x/crypto/ripemd160"
 )
 
